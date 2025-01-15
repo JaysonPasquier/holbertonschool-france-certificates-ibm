@@ -4,7 +4,7 @@
 
 This document provides an overview of the course "SQL and Relational Databases," including its prerequisites, content, and certification details. A visual representation of the PDF outlining the course structure is included below for clarity.
 
-[![PDF Overview](./Certificat_SQL_2025.png)]
+[![PDF Overview](./Certificat_SQL_2025.jpg)](./Certificat_SQL_2025.pdf)
 
 ## When Can You Start?
 
